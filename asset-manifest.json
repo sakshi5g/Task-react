@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/task/static/css/main.b16f18f1.chunk.css",
+    "main.js": "/task/static/js/main.ef5739d0.chunk.js",
+    "main.js.map": "/task/static/js/main.ef5739d0.chunk.js.map",
+    "runtime-main.js": "/task/static/js/runtime-main.919af5fa.js",
+    "runtime-main.js.map": "/task/static/js/runtime-main.919af5fa.js.map",
+    "static/js/2.eff2771e.chunk.js": "/task/static/js/2.eff2771e.chunk.js",
+    "static/js/2.eff2771e.chunk.js.map": "/task/static/js/2.eff2771e.chunk.js.map",
+    "index.html": "/task/index.html",
+    "static/css/main.b16f18f1.chunk.css.map": "/task/static/css/main.b16f18f1.chunk.css.map",
+    "static/js/2.eff2771e.chunk.js.LICENSE.txt": "/task/static/js/2.eff2771e.chunk.js.LICENSE.txt",
+    "static/media/Kard Fan.9fe80a9f.png": "/task/static/media/Kard Fan.9fe80a9f.png",
+    "static/media/App.css": "/task/static/media/hero.208f47e8.png",
+    "static/media/kashware kard.0f1513ae.png": "/task/static/media/kashware kard.0f1513ae.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.919af5fa.js",
+    "static/js/2.eff2771e.chunk.js",
+    "static/css/main.b16f18f1.chunk.css",
+    "static/js/main.ef5739d0.chunk.js"
+  ]
+}
